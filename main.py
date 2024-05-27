@@ -31,7 +31,7 @@ def move_in_d_shape():
 
             logging.info("Completed 'D' shape movement")
 
-            time.sleep(120)
+            time.sleep(30)
 
     except KeyboardInterrupt:
         logging.info("Script terminated by user")
